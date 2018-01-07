@@ -23,4 +23,4 @@ It will create a folder name blog and create a csv file name blogdata.csv and th
 
 
 
-[If you have problems please refer to this video](https://www.youtube.com/watch?v=cBASLM-VOFg)
+[If you have problems please refer to the video on the link](https://www.youtube.com/watch?v=cBASLM-VOFg)
