@@ -23,4 +23,4 @@ It will create a folder name blog and create a csv file name blogdata.csv and th
 
 
 
-[![Nepali Web Scrapper](https://img.youtube.com/vi/cBASLM-VOFg/0.jpg)](https://www.youtube.com/watch?v=cBASLM-VOFg)
+[![Nepali Web Scrapper](https://img.youtube.com/vi/cBASLM-VOFg/0.jpg)](https://www.youtube.com/watch?v=cBASLM-VOFg If you have problems please refer to this video)
