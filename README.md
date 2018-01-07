@@ -11,7 +11,7 @@
 
  launch terminal
 
- This ist the sample code
+ This is the sample code
 
  `scrapy crawl onlinekhabr -a category="blog" -a address="https://www.onlinekhabar.com/content/opinion" -o blogdata.csv`
 
