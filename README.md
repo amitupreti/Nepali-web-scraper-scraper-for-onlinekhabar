@@ -3,7 +3,7 @@
 ## Notes:
      I have used python3 and scrapy 1.3.3
      This scraper was built for research purpose for a nepali news website 
-[https://www.onlinekhabar.com](Onlinekhabar)
+[https://www.onlinekhabar.com](https://www.onlinekhabar.com)
      Please note that the way the website looks matter since scrapper is based on css
 
 ### Guides to use the scrapper
