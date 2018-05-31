@@ -21,7 +21,8 @@ changed.( the scraping is totally based on CSS)
  1. clone this repository to your computer
  2. Launch terminal
  3. Navigate to the folder with file scrapy.cfg
- 4. `scrapy crawl onlinekhabr -a category="blog" -a address="https://www.onlinekhabar.com/content/opinion" -o blogdata.csv`
+ 4. Enter this code
+ `scrapy crawl onlinekhabr -a category="blog" -a address="https://www.onlinekhabar.com/content/opinion" -o blogdata.csv`
 
  This is the sample code
 
