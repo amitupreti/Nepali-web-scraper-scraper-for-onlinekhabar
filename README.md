@@ -1,6 +1,8 @@
 # Welcome to the Nepali-news-Web-Scraper!
 
 ### with this scraper you can scrape every news article from onlinekhabar.com and save it locally on your computer in different formats such as csv, json
+## Here is the link to scraped to data
+     `https://drive.google.com/file/d/1E8u6_pJbsWPhg61hfPi5Up4l730SUKRb/view?usp=sharing`
 
 ## Notes:
      Operating System: Linux
