@@ -7,7 +7,7 @@
 ## Notes:
      Operating System: Linux
      Language:         python3
-     libraries:        Scrapy, system, chdir   
+     libraries:        Scrapy
 
      This scraper was purely  built for research purpose. 
 
@@ -24,20 +24,10 @@ changed.( the scraping is totally based on CSS)
  2. Launch terminal
  3. Navigate to the folder with file scrapy.cfg
  4. Enter this code
- `scrapy crawl onlinekhabr -a category="blog" -a address="https://www.onlinekhabar.com/content/opinion" -o blogdata.csv`
+ `scrapy crawl onlineScraper -o data.csv`
 
  This is the sample code
 
  `scrapy crawl onlinekhabr -a category="blog" -a address="https://www.onlinekhabar.com/content/opinion" -o blogdata.csv`
 
- ### Explanation of code :  
-   *  It will create a folder name blog(category="blog").If you want another folder for your news change the category value
-    * It will create a csv file name blogdata.csv and the scraped news articles will be inside the csv file(if you want news in json  format put (-o blogdata.json)
-   *  You can also change the address to scrape other news such as entertainment, business. Get the link from onlinekhabar for a category that you want. dont forget to change category='yourcategory' in the code
 
-
-<a href="https://ibb.co/kMd7HG"><img src="https://preview.ibb.co/eJzsjw/git.png" alt="git" border="0" /></a>
-
-
-
-[If you have problems please refer to the video on the link](https://www.youtube.com/watch?v=cBASLM-VOFg)
