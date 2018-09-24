@@ -25,9 +25,6 @@ changed.( the scraping is totally based on CSS)
  3. Navigate to the folder with file scrapy.cfg
  4. Enter this code
  `scrapy crawl onlineScraper -o data.csv`
-
- This is the sample code
-
- `scrapy crawl onlinekhabr -a category="blog" -a address="https://www.onlinekhabar.com/content/opinion" -o blogdata.csv`
+`
 
 
